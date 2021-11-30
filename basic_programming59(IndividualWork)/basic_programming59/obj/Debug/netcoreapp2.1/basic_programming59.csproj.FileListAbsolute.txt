@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\basic_programming59\basic_programming59\bin\Debug\netcoreapp2.1\basic_programming59.deps.json
+C:\Users\ASUS\source\repos\basic_programming59\basic_programming59\bin\Debug\netcoreapp2.1\basic_programming59.runtimeconfig.json
+C:\Users\ASUS\source\repos\basic_programming59\basic_programming59\bin\Debug\netcoreapp2.1\basic_programming59.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\basic_programming59\basic_programming59\bin\Debug\netcoreapp2.1\basic_programming59.dll
+C:\Users\ASUS\source\repos\basic_programming59\basic_programming59\bin\Debug\netcoreapp2.1\basic_programming59.pdb
+C:\Users\ASUS\source\repos\basic_programming59\basic_programming59\obj\Debug\netcoreapp2.1\basic_programming59.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\basic_programming59\basic_programming59\obj\Debug\netcoreapp2.1\basic_programming59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\basic_programming59\basic_programming59\obj\Debug\netcoreapp2.1\basic_programming59.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\basic_programming59\basic_programming59\obj\Debug\netcoreapp2.1\basic_programming59.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\basic_programming59\basic_programming59\obj\Debug\netcoreapp2.1\basic_programming59.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\basic_programming59\basic_programming59\obj\Debug\netcoreapp2.1\basic_programming59.dll
+C:\Users\ASUS\source\repos\basic_programming59\basic_programming59\obj\Debug\netcoreapp2.1\basic_programming59.pdb
+C:\Users\ASUS\source\repos\basic_programming59\basic_programming59\obj\Debug\netcoreapp2.1\basic_programming59.genruntimeconfig.cache

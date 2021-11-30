@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{4F279271-3EB8-4475-8A02-B698C5888969}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/EmployeesController.cs">
+    <Files>
+      <File FileName="Controllers/EmployeesController.cs" Line="34" Column="1" />
+      <File FileName="Repository/Data/EmployeeRepository.cs" Line="44" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Base" expanded="True" />
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="EmployeesController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repository" expanded="True">
+                <Node name="Data" expanded="True" />
+                <Node name="Interface" expanded="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
